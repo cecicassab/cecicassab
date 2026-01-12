@@ -47,7 +47,12 @@
 ---
 
 ### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cecicassab&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="cecicassab" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cecicassab&theme=visual_studio_code" alt="cecicassab" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecicassab&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cecicassab&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="left">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cecicassab&theme=dracula" alt="Sequência de commits" />
 </p>
